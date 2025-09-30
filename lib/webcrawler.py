@@ -43,4 +43,19 @@ def crawler(start, depth):
         crawl_count+=1
     print(visited)
 
+    titles=[]
+    for link in visited:
+        response=requests.get(link)
+        response.raise_for_status()
+
+        # Parse HTML
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        #Grab titles
+        title_elements = soup.select("h1")
+        for title_element in title_elements:
+            title = title_element.get_text(strip=True)
+            titles.append(title)
+    
+    print(titles)
 crawler("https://www.scrapingcourse.com/ecommerce/", 20)
