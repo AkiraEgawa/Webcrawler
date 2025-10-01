@@ -77,7 +77,7 @@ def crawler(instructions):
     
     # Output a csv file with headers as tag,link,text
     with open(instructions["tag_output"], "w") as f: # Opens the file
-        f.write("tag,link,text")
+        f.write("tag,link,text\n")
         linkNum=0
         for link in visited:
             tagNum=0
