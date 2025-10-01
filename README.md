@@ -4,8 +4,17 @@
 
 A webcrawler using python
 
-### Goals:
+## How to use
 
-1. Webcrawler in general
-2. File parser that lets user give it an instruction file
-3. Have webcrawler write results into given text files or some other type (qml maybe???)
+Download this repo somewhere
+
+Edit the testConfig.txt file to your liking
+Line meaning goes at follows
+1 - Starting URL
+2 - Depth of Search
+3 - file to deposit the URL's
+4 - file to deposit the content searched
+5 and onwards - all tags to grab content from
+
+Run the crawler by typing "python main.py"
+View the files to see the results

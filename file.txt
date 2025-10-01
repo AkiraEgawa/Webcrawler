@@ -1,3 +1,10 @@
 https://www.scrapingcourse.com/ecommerce/
 https://www.scrapingcourse.com/ecommerce/cart/
 https://www.scrapingcourse.com/ecommerce/checkout/
+https://www.scrapingcourse.com/ecommerce/my-account/
+https://www.scrapingcourse.com/ecommerce/cart/
+https://www.scrapingcourse.com/ecommerce/page/2/
+https://www.scrapingcourse.com/ecommerce/page/3/
+https://www.scrapingcourse.com/ecommerce/page/4/
+https://www.scrapingcourse.com/ecommerce/page/10/
+https://www.scrapingcourse.com/ecommerce/page/11/

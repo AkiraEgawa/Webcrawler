@@ -1,3 +1,130 @@
-tag,link,texth1,https://www.scrapingcourse.com/ecommerce/,Shop
+tag,link,text
+h2,https://www.scrapingcourse.com/ecommerce/,Abominable Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/,Adrienne Trek Jacket
+h2,https://www.scrapingcourse.com/ecommerce/,Aeon Capri
+h2,https://www.scrapingcourse.com/ecommerce/,Aero Daily Fitness Tee
+h2,https://www.scrapingcourse.com/ecommerce/,Aether Gym Pant
+h2,https://www.scrapingcourse.com/ecommerce/,Affirm Water Bottle
+h2,https://www.scrapingcourse.com/ecommerce/,Aim Analog Watch
+h2,https://www.scrapingcourse.com/ecommerce/,Ajax Full-Zip Sweatshirt
+h2,https://www.scrapingcourse.com/ecommerce/,Ana Running Short
+h2,https://www.scrapingcourse.com/ecommerce/,Angel Light Running Short
+h2,https://www.scrapingcourse.com/ecommerce/,Antonia Racer Tank
+h2,https://www.scrapingcourse.com/ecommerce/,Apollo Running Short
+h2,https://www.scrapingcourse.com/ecommerce/,Arcadio Gym Short
+h2,https://www.scrapingcourse.com/ecommerce/,Argus All-Weather Tank
+h2,https://www.scrapingcourse.com/ecommerce/,Ariel Roll Sleeve Sweatshirt
+h2,https://www.scrapingcourse.com/ecommerce/,Artemis Running Short
+h1,https://www.scrapingcourse.com/ecommerce/,Shop
+h2,https://www.scrapingcourse.com/ecommerce/cart/,You may be interested in…
+h2,https://www.scrapingcourse.com/ecommerce/cart/,Your cart is currently empty!
+h2,https://www.scrapingcourse.com/ecommerce/cart/,New in store
 h1,https://www.scrapingcourse.com/ecommerce/cart/,Cart
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Abominable Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Adrienne Trek Jacket
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Aeon Capri
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Aero Daily Fitness Tee
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Aether Gym Pant
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Affirm Water Bottle
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Aim Analog Watch
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Ajax Full-Zip Sweatshirt
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Ana Running Short
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Angel Light Running Short
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Antonia Racer Tank
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Apollo Running Short
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Arcadio Gym Short
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Argus All-Weather Tank
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Ariel Roll Sleeve Sweatshirt
+h2,https://www.scrapingcourse.com/ecommerce/checkout/,Artemis Running Short
 h1,https://www.scrapingcourse.com/ecommerce/checkout/,Shop
+h2,https://www.scrapingcourse.com/ecommerce/my-account/,Login
+h1,https://www.scrapingcourse.com/ecommerce/my-account/,My account
+h2,https://www.scrapingcourse.com/ecommerce/cart/,You may be interested in…
+h2,https://www.scrapingcourse.com/ecommerce/cart/,Your cart is currently empty!
+h2,https://www.scrapingcourse.com/ecommerce/cart/,New in store
+h1,https://www.scrapingcourse.com/ecommerce/cart/,Cart
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Atlas Fitness Tank
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Atomic Endurance Running Tee (Crew-Neck)
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Atomic Endurance Running Tee (V-neck)
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Augusta Pullover Jacket
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Autumn Pullie
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Balboa Persistence Tee
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Bardot Capri
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Beaumont Summit Kit
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Bella Tank
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Bess Yoga Short
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Bolo Sport Watch
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Breathe-Easy Tank
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Bruno Compete Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Caesar Warm-Up Pant
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Carina Basic Capri
+h2,https://www.scrapingcourse.com/ecommerce/page/2/,Cassia Funnel Sweatshirt
+h1,https://www.scrapingcourse.com/ecommerce/page/2/,Shop
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Cassius Sparring Tank
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Celeste Sports Bra
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Chaz Kangeroo Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Chloe Compete Tank
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Circe Hooded Ice Fleece
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Clamber Watch
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Cobalt CoolTech™ Fitness Short
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Compete Track Tote
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Cora Parachute Pant
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Cronus Yoga Pant
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Crown Summit Backpack
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Cruise Dual Analog Watch
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Daphne Full-Zip Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Daria Bikram Pant
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Dash Digital Watch
+h2,https://www.scrapingcourse.com/ecommerce/page/3/,Deion Long-Sleeve EverCool™ Tee
+h1,https://www.scrapingcourse.com/ecommerce/page/3/,Shop
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Deirdre Relaxed-Fit Capri
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Desiree Fitness Tee
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Diana Tights
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Didi Sport Watch
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Diva Gym Tee
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Driven Backpack
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Dual Handle Cardio Ball
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Echo Fit Compression Short
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Electra Bra Top
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Elisa EverCool™ Tee
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Endeavor Daytrip Backpack
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Endurance Watch
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Eos V-Neck Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Erica Evercool Sports Bra
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Erika Running Short
+h2,https://www.scrapingcourse.com/ecommerce/page/4/,Erikssen CoolTech™ Fitness Tank
+h1,https://www.scrapingcourse.com/ecommerce/page/4/,Shop
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Savvy Shoulder Tote
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Selene Yoga Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sinbad Fitness Tank
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sol Active Short
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sparta Gym Tank
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Foam Roller
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Foam Yoga Brick
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 55 cm
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 55 cm
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 55 cm
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 65 cm
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 65 cm
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 65 cm
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 75 cm
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 75 cm
+h2,https://www.scrapingcourse.com/ecommerce/page/10/,Sprite Stasis Ball 75 cm
+h1,https://www.scrapingcourse.com/ecommerce/page/10/,Shop
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Sprite Yoga Strap 10 foot
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Sprite Yoga Strap 6 foot
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Sprite Yoga Strap 8 foot
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Stark Fundamental Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Stellar Solar Jacket
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Strike Endurance Tee
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Strive Shoulder Pack
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Summit Watch
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Supernova Sport Pant
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Sybil Running Short
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Sylvia Capri
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Taurus Elements Shell
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Teton Pullover Hoodie
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Thorpe Track Pant
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Tiberius Gym Tank
+h2,https://www.scrapingcourse.com/ecommerce/page/11/,Tiffany Fitness Tee
+h1,https://www.scrapingcourse.com/ecommerce/page/11/,Shop

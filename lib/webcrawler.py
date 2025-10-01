@@ -42,7 +42,6 @@ def crawler(instructions):
                 urls_to_visit.append(url)
             
         crawl_count+=1
-    print(visited)
 
 
     # this code has an array called titles
@@ -62,13 +61,12 @@ def crawler(instructions):
         for tag in instructions["tags"]:
             titles[linkNum].append([])
             #Grab titles
-            title_elements = soup.select("h1")
+            title_elements = soup.select(tag)
             for title_element in title_elements:
                 title = title_element.get_text(strip=True)
                 titles[linkNum][i].append(title)
             i+=1
         linkNum+=1
-    print(titles)
 
     # Outputs all links into a file
     with open(instructions["url_output"], "w") as f:
@@ -82,7 +80,6 @@ def crawler(instructions):
         for link in visited:
             tagNum=0
             for tag in instructions["tags"]:
-                print(tagNum)
                 for text in titles[linkNum][tagNum]:
                     f.write(tag+","+link+","+text+"\n")
                 tagNum+=1
