@@ -1,10 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
 
-def crawler(start, depth):
+def crawler(instructions):
     # initiate variables
-    target_url = start
+    target_url = instructions["start_url"]
     urls_to_visit = [target_url]
+    depth = instructions["depth"]
     visited = []
     crawl_count = 0
     
@@ -43,19 +44,46 @@ def crawler(start, depth):
         crawl_count+=1
     print(visited)
 
+
+    # this code has an array called titles
+    # titles holds one array for each link
+    # each link array holds an array for each tag
+    # each tag array holds the text for the respective tag
     titles=[]
+    linkNum=0
     for link in visited:
+        titles.append([])
         response=requests.get(link)
         response.raise_for_status()
+        i=0 # setup for tag indexing
 
         # Parse HTML
         soup = BeautifulSoup(response.text, "html.parser")
-
-        #Grab titles
-        title_elements = soup.select("h1")
-        for title_element in title_elements:
-            title = title_element.get_text(strip=True)
-            titles.append(title)
-    
+        for tag in instructions["tags"]:
+            titles[linkNum].append([])
+            #Grab titles
+            title_elements = soup.select("h1")
+            for title_element in title_elements:
+                title = title_element.get_text(strip=True)
+                titles[linkNum][i].append(title)
+            i+=1
+        linkNum+=1
     print(titles)
-crawler("https://www.scrapingcourse.com/ecommerce/", 20)
+
+    # Outputs all links into a file
+    with open(instructions["url_output"], "w") as f:
+        for link in visited:
+            f.write(link + "\n")
+    
+    # Output a csv file with headers as tag,link,text
+    with open(instructions["tag_output"], "w") as f: # Opens the file
+        f.write("tag,link,text")
+        linkNum=0
+        for link in visited:
+            tagNum=0
+            for tag in instructions["tags"]:
+                print(tagNum)
+                for text in titles[linkNum][tagNum]:
+                    f.write(tag+","+link+","+text+"\n")
+                tagNum+=1
+            linkNum+=1

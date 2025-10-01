@@ -10,8 +10,6 @@ Fifth Line onwards: Desired tags to extract
 """
 
 def fileParser(file):
-    answer = []
-    tags = []
     with open(file) as f:
         lines = [line.strip() for line in f]
         if (len(lines) < 4):
@@ -30,4 +28,4 @@ def fileParser(file):
             "tags": lines[4:]
         }
     
-    return answer
+    return instructions

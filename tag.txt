@@ -1,0 +1,3 @@
+tag,link,texth1,https://www.scrapingcourse.com/ecommerce/,Shop
+h1,https://www.scrapingcourse.com/ecommerce/cart/,Cart
+h1,https://www.scrapingcourse.com/ecommerce/checkout/,Shop

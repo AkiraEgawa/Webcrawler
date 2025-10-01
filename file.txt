@@ -1,0 +1,3 @@
+https://www.scrapingcourse.com/ecommerce/
+https://www.scrapingcourse.com/ecommerce/cart/
+https://www.scrapingcourse.com/ecommerce/checkout/

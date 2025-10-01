@@ -1,0 +1,5 @@
+https://www.scrapingcourse.com/ecommerce/
+3
+file.txt
+tag.txt
+h1
